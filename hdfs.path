@@ -1,0 +1,12 @@
+#!/bin/bash
+##==============================HDFS Paths==============================
+
+
+# 输入路径前缀
+export input_pre_dir='/user/ad_pangu/hive/gen.db/gen_yx_show_log_det_hour'
+
+# 输出路径前缀
+export output_path=/user/algo/user/dinghongquan/tmp
+
+#用户ctrStrategyType中间路径
+#export isCache_path=${output_pre_dir}/isCache

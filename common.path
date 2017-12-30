@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+# General Utilities
+export STREAMING=/home/appops/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.3.jar
+export HADOOP=/home/appops/hadoop/bin/hadoop
+export HIVE=/home/appops/hive/bin/hive
+export PYTHON=/usr/bin/python
+export PYTHON3=
+export MySQL=`which mysql`
+export MYSQL=`which mysql`
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/lib:/home/appops/hadoop/lib/native
+
